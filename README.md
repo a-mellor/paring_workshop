@@ -1,5 +1,7 @@
 # What is it?
 
+Started at [Spa Conference 2018](https://spaconference.org/spa2018/sessions/session809.html) [pairing workshop](https://spaconference.org/spa2018/sessions/session809.html) run by folks at [Government Digital Service](https://github.com/alphagov).
+
 A basic ruby / rspec project setup and ready to go.
 
 # Instructions
